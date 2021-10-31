@@ -1,0 +1,12 @@
+platformName: Android
+deviceName: 127.0.0.1:62001
+platformVersion: 7.1.2
+appname: E:\workspace\Appium_work\1_project\app\kaoyanbang.apk
+appPackage: com.tal.kaoyan
+appActivity: .ui.activity.SplashActivity
+unicodeKeyboard: True
+resetKeyboard: True
+automationName: uiautomator2
+noReset: False
+ip: 127.0.0.1
+port: 4723

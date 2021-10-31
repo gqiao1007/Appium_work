@@ -1,0 +1,82 @@
+2021-10-25 00:48:01,746 desired_caps.py[line:32] INFO start app...
+2021-10-25 03:08:51,915 desired_caps.py[line:32] INFO start app...
+2021-10-25 03:09:07,659 common_fun.py[line:51] INFO swipeLeft
+2021-10-25 03:09:08,907 common_fun.py[line:66] INFO get startApp screenshot
+2021-10-25 19:10:09,591 desired_caps.py[line:32] INFO start app...
+2021-10-25 19:10:23,262 common_fun.py[line:16] INFO ===============check agreeBtn==========================
+2021-10-25 19:10:24,171 common_fun.py[line:26] INFO ===============check okBtn=====================
+2021-10-25 19:10:25,941 common_fun.py[line:36] INFO ======================check tiyanBtn========================
+2021-10-25 19:10:26,975 loginView.py[line:28] INFO ============login_action==============
+2021-10-25 19:10:27,923 loginView.py[line:31] INFO username is:18817936080
+2021-10-25 19:10:29,046 loginView.py[line:34] INFO password is:zxc12345
+2021-10-25 19:10:30,771 loginView.py[line:38] INFO click loginBtn
+2021-10-25 19:10:31,279 loginView.py[line:41] INFO login finished!
+2021-10-25 19:10:31,279 loginView.py[line:54] INFO ====check_loginStatus======
+2021-10-25 19:10:31,279 common_fun.py[line:70] INFO ====check_market_ad====
+2021-10-25 19:10:39,396 loginView.py[line:44] INFO =====check_account_alert====
+2021-10-25 19:10:55,706 loginView.py[line:62] ERROR login Fail!
+2021-10-25 19:10:55,706 common_fun.py[line:66] INFO get login fail screenshot
+2021-10-25 21:53:02,613 desired_caps.py[line:32] INFO start app...
+2021-10-25 21:53:18,584 common_fun.py[line:16] INFO ===============check agreeBtn==========================
+2021-10-25 21:53:19,505 common_fun.py[line:26] INFO ===============check okBtn=====================
+2021-10-25 21:53:21,081 common_fun.py[line:36] INFO ======================check tiyanBtn========================
+2021-10-25 21:53:22,161 loginView.py[line:28] INFO ============login_action==============
+2021-10-25 21:53:23,144 loginView.py[line:31] INFO username is:18817936080
+2021-10-25 21:53:24,265 loginView.py[line:34] INFO password is:zxc12345
+2021-10-25 21:53:25,980 loginView.py[line:38] INFO click loginBtn
+2021-10-25 21:53:26,494 loginView.py[line:41] INFO login finished!
+2021-10-25 21:53:26,494 loginView.py[line:54] INFO ====check_loginStatus======
+2021-10-25 21:53:26,495 common_fun.py[line:70] INFO ====check_market_ad====
+2021-10-25 21:53:28,932 common_fun.py[line:76] INFO close market ad
+2021-10-25 21:53:28,947 loginView.py[line:44] INFO =====check_account_alert====
+2021-10-25 21:53:37,386 loginView.py[line:66] INFO login success!
+2021-10-25 21:53:37,386 loginView.py[line:71] INFO =====logout_action======
+2021-10-25 23:53:42,363 myunit.py[line:8] INFO =====setUp====
+2021-10-25 23:53:42,365 desired_caps.py[line:32] INFO start app...
+2021-10-25 23:53:56,157 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2021-10-25 23:53:56,157 common_fun.py[line:80] INFO =====get_csv_data======
+2021-10-25 23:53:56,157 myunit.py[line:12] INFO ====tearDown====
+2021-10-25 23:55:05,550 myunit.py[line:8] INFO =====setUp====
+2021-10-25 23:55:05,552 desired_caps.py[line:32] INFO start app...
+2021-10-25 23:55:17,939 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2021-10-25 23:55:17,939 myunit.py[line:12] INFO ====tearDown====
+2021-10-25 23:55:43,119 myunit.py[line:8] INFO =====setUp====
+2021-10-25 23:55:43,121 desired_caps.py[line:32] INFO start app...
+2021-10-25 23:55:56,532 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2021-10-25 23:55:56,532 common_fun.py[line:80] INFO =====get_csv_data======
+2021-10-25 23:55:56,534 common_fun.py[line:16] INFO ===============check agreeBtn==========================
+2021-10-25 23:55:56,954 common_fun.py[line:26] INFO ===============check okBtn=====================
+2021-10-25 23:55:58,837 common_fun.py[line:36] INFO ======================check tiyanBtn========================
+2021-10-25 23:55:59,919 loginView.py[line:28] INFO ============login_action==============
+2021-10-25 23:56:01,414 loginView.py[line:31] INFO username is:18817936080
+2021-10-25 23:56:02,536 loginView.py[line:34] INFO password is:zxc12345
+2021-10-25 23:56:04,263 loginView.py[line:38] INFO click loginBtn
+2021-10-25 23:56:04,776 loginView.py[line:41] INFO login finished!
+2021-10-25 23:56:04,776 loginView.py[line:54] INFO ====check_loginStatus======
+2021-10-25 23:56:04,776 common_fun.py[line:70] INFO ====check_market_ad====
+2021-10-25 23:56:07,381 common_fun.py[line:76] INFO close market ad
+2021-10-25 23:56:07,400 loginView.py[line:44] INFO =====check_account_alert====
+2021-10-25 23:56:15,846 loginView.py[line:66] INFO login success!
+2021-10-25 23:56:15,846 myunit.py[line:12] INFO ====tearDown====
+2021-10-26 00:34:16,990 run.py[line:18] INFO start run test case...
+2021-10-26 00:34:16,990 myunit.py[line:8] INFO =====setUp====
+2021-10-26 00:34:16,992 desired_caps.py[line:32] INFO start app...
+2021-10-26 00:34:29,448 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2021-10-26 00:34:29,448 common_fun.py[line:80] INFO =====get_csv_data======
+2021-10-26 00:34:29,450 common_fun.py[line:16] INFO ===============check agreeBtn==========================
+2021-10-26 00:34:29,909 common_fun.py[line:26] INFO ===============check okBtn=====================
+2021-10-26 00:34:32,061 common_fun.py[line:36] INFO ======================check tiyanBtn========================
+2021-10-26 00:34:33,136 loginView.py[line:28] INFO ============login_action==============
+2021-10-26 00:34:34,070 loginView.py[line:31] INFO username is:18817936080
+2021-10-26 00:34:35,201 loginView.py[line:34] INFO password is:zxc12345
+2021-10-26 00:34:36,939 loginView.py[line:38] INFO click loginBtn
+2021-10-26 00:34:37,457 loginView.py[line:41] INFO login finished!
+2021-10-26 00:34:37,457 loginView.py[line:54] INFO ====check_loginStatus======
+2021-10-26 00:34:37,457 common_fun.py[line:70] INFO ====check_market_ad====
+2021-10-26 00:34:39,939 common_fun.py[line:76] INFO close market ad
+2021-10-26 00:34:40,460 loginView.py[line:44] INFO =====check_account_alert====
+2021-10-26 00:34:48,913 loginView.py[line:66] INFO login success!
+2021-10-26 00:34:48,913 myunit.py[line:12] INFO ====tearDown====
+2021-10-26 22:21:28,831 run.py[line:18] INFO start run test case...
+2021-10-26 22:21:28,832 myunit.py[line:8] INFO =====setUp====
+2021-10-26 22:21:28,833 desired_caps.py[line:32] INFO start app...

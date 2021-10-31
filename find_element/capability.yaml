@@ -1,0 +1,12 @@
+platformName: Android
+deviceName: 127.0.0.1:62001
+platformVersion: 7.1.2
+app: E:\workspace\Appium_work\matiars\2_2a3b6ae08f8768ccb2d820753cabb474.apk
+appPackage: com.tal.kaoyan
+appActivity: .ui.activity.SplashActivity
+unicodeKeyboard: True
+resetKeyboard: True
+automationName: uiautomator2
+noReset: False
+ip: 127.0.0.1
+port: 4723
